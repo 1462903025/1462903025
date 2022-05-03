@@ -6,6 +6,8 @@
 
 print ("hello world");
 
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+
 
 <!---
 1462903025/1462903025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
