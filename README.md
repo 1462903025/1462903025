@@ -7,7 +7,7 @@
 print ("hello world");
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
-<a href="https://aifps.cn"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="aifps.cn" /></a>
+<a href="https://aifps.cn"><img src="https://img.shields.io/badge/link-aifps.cn-red" alt="aifps.cn" /></a>
 
 
 <!---
