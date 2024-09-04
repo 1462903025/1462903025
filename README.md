@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @1462903025
-
-print ("hello world");
+事已至此，抽支烟先
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
 <a href="https://aifps.cn"><img src="https://img.shields.io/badge/link-aifps.cn-red" alt="aifps.cn" /></a>
