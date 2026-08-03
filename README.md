@@ -50,13 +50,19 @@
 
 ### 📈 工作量统计（GitHub Stats）
 
+> 统计卡片由 GitHub Actions 每日自动生成并托管在本仓库内（`profile-summary-card-output/`），不依赖外部服务。
+
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1462903025&show_icons=true&hide_title=true)](https://github.com/1462903025)
+![Profile Details](https://raw.githubusercontent.com/1462903025/1462903025/main/profile-summary-card-output/github_dark/0-profile-details.svg)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1462903025&hide_border=true)](https://github.com/1462903025)
+![GitHub Stats](https://raw.githubusercontent.com/1462903025/1462903025/main/profile-summary-card-output/github_dark/3-stats.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1462903025&layout=compact&hide_title=true)](https://github.com/1462903025)
+![Repos Per Language](https://raw.githubusercontent.com/1462903025/1462903025/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+
+![Most Commit Language](https://raw.githubusercontent.com/1462903025/1462903025/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+
+![Productive Time](https://raw.githubusercontent.com/1462903025/1462903025/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 </div>
 
